@@ -1,0 +1,27 @@
+{
+  "name": "DeepSeekBot Mascot",
+  "avatar": {
+    "recipe": {
+      "schemaVersion": 1,
+      "family": "illustrated",
+      "assetVersion": 1,
+      "rigVersion": 1,
+      "head": "vchin",
+      "pose": "front",
+      "hair": "wavy",
+      "eyes": "round",
+      "brows": "thick",
+      "nose": "none",
+      "mouth": "cat",
+      "cheeks": "blush",
+      "glasses": "round",
+      "outfit": "cardigan",
+      "backdrop": "sparkles",
+      "accessory": "none",
+      "skinColor": "#9a6142",
+      "hairColor": "#8a5a36",
+      "eyeColor": "#3f7fbf",
+      "shirtColor": "#f2c14e"
+    }
+  }
+}

@@ -10,7 +10,7 @@ Open the **Bot Marketplace** in DeepSeekBot, find **DeepSeekBot-Mascot**, and ch
 
 ## Publication boundary
 
-Everything committed here, including Git history and future memory updates, is public. This repository contains public technical knowledge only. API keys, tokens, personal details, private conversations and operator notifications must never be stored here. Server configuration, credentials and the private Operator Bot live outside this repository.
+Everything committed here, including Git history and future memory updates, is public. This repository contains public technical knowledge only. API keys, tokens, personal details, private conversations and operator notifications must never be stored here. One PersonaBot can own both Discord and Lark identities. Server configuration, credentials and private conversations stay outside this public repository.
 
 - [DeepSeekBot](https://deepseekbot.botharness.ai/en/)
 - [BotHarness documentation](https://botharness.ai)
@@ -22,4 +22,4 @@ DeepSeekBot is a community project and is not affiliated with DeepSeek or xAI.
 
 这是 DeepSeekBot 社区助手的公开 PersonaBot 记忆仓库，也是 BotHarness Marketplace 的实际测试样本。通过 Marketplace 或 Git URL 导入后，请自行配置模型和消息连接。
 
-仓库及全部提交历史、后续同步内容均公开。这里只保存公开技术知识；不保存 API Key、Token、个人资料、私人聊天或运营通知。服务器凭据和私人 Operator Bot 独立保存。
+仓库及全部提交历史、后续同步内容均公开。这里只保存公开技术知识；不保存 API Key、Token、个人资料、私人聊天或运营通知。同一个 PersonaBot 可以同时绑定 Discord 和 Lark 身份；服务器配置、凭据和私聊内容保存在公开仓库之外。
