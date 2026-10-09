@@ -1,5 +1,6 @@
 {
   "name": "DeepSeekBot Mascot",
+  "bio": "DeepSeekBot community support and conversation",
   "avatar": {
     "recipe": {
       "schemaVersion": 1,
@@ -22,6 +23,12 @@
       "hairColor": "#8a5a36",
       "eyeColor": "#3f7fbf",
       "shirtColor": "#f2c14e"
+    }
+  },
+  "banner": {
+    "recipe": {
+      "scene": "night-sky",
+      "seed": 697475819
     }
   }
 }
